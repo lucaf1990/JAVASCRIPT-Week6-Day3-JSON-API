@@ -1,0 +1,103 @@
+[
+  {
+    "Artista": "Sia",
+    "Pubblicazione": "8 luglio 2014",
+    "  Durata": "48:47",
+    "Dischi": 1,
+    "Tracce": 12,
+    "Genere": ["Pop", "Elettropop"],
+    "Produttore": ["Greg Kurstin", " Jesse Shatkin", "Chris Braide", "Diplo"],
+    " Formati": ["CD", "LP", "download digitale", "streaming"]
+  },
+  {
+    "Artista": "DuaLipa",
+    "Pubblicazione": "19 luglio 202",
+    "  Durata": "55:37",
+    "Dischi": 1,
+    "Tracce": 14,
+    "Genere": ["Pop", "Elettropop"],
+    "Produttore": ["Greg Kurstin", " Jesse Shatkin", "Chris Braide", "Diplo"],
+    " Formati": ["CD", "LP", "download digitale", "streaming"]
+  },
+  {
+    "Artista": "Jess Glynn",
+    "Pubblicazione": "19 gennaio 2018",
+    "  Durata": "54:25",
+    "Dischi": 1,
+    "Tracce": 10,
+    "Genere": ["Pop", "Elettropop"],
+    "Produttore": ["Greg Kurstin", " Jesse Shatkin", "Chris Braide", "Diplo"],
+    " Formati": ["CD", "LP", "download digitale", "streaming"]
+  },
+  {
+    "Artista": "Madonna",
+    "Pubblicazione": "8 luglio 1995",
+    "  Durata": "62:47",
+    "Dischi": 1,
+    "Tracce": 16,
+    "Genere": ["Pop", "Elettropop"],
+    "Produttore": ["Greg Kurstin", " Jesse Shatkin", "Chris Braide", "Diplo"],
+    " Formati": ["CD", "LP", "download digitale", "streaming"]
+  },
+  {
+    "Artista": "Rihanna",
+    "Pubblicazione": "8 novembre 1554",
+    "  Durata": "74:27",
+    "Dischi": 1,
+    "Tracce": 4,
+    "Genere": ["Pop", "Elettropop"],
+    "Produttore": ["Greg Kurstin", " Jesse Shatkin", "Chris Braide", "Diplo"],
+    " Formati": ["CD", "LP", "download digitale", "streaming"]
+  },
+
+  {
+    "Artista": "Sia",
+    "Pubblicazione": "8 luglio 2014",
+    "  Durata": "48:47",
+    "Dischi": 1,
+    "Tracce": 12,
+    "Genere": ["Pop", "Elettropop"],
+    "Produttore": ["Greg Kurstin", " Jesse Shatkin", "Chris Braide", "Diplo"],
+    " Formati": ["CD", "LP", "download digitale", "streaming"]
+  },
+  {
+    "Artista": "DuaLipa",
+    "Pubblicazione": "19 luglio 202",
+    "  Durata": "55:37",
+    "Dischi": 1,
+    "Tracce": 14,
+    "Genere": ["Pop", "Elettropop"],
+    "Produttore": ["Greg Kurstin", " Jesse Shatkin", "Chris Braide", "Diplo"],
+    " Formati": ["CD", "LP", "download digitale", "streaming"]
+  },
+  {
+    "Artista": "Jess Glynn",
+    "Pubblicazione": "19 gennaio 2018",
+    "  Durata": "54:25",
+    "Dischi": 1,
+    "Tracce": 10,
+    "Genere": ["Pop", "Elettropop"],
+    "Produttore": ["Greg Kurstin", " Jesse Shatkin", "Chris Braide", "Diplo"],
+    " Formati": ["CD", "LP", "download digitale", "streaming"]
+  },
+  {
+    "Artista": "Madonna",
+    "Pubblicazione": "8 luglio 1995",
+    "  Durata": "62:47",
+    "Dischi": 1,
+    "Tracce": 16,
+    "Genere": ["Pop", "Elettropop"],
+    "Produttore": ["Greg Kurstin", " Jesse Shatkin", "Chris Braide", "Diplo"],
+    " Formati": ["CD", "LP", "download digitale", "streaming"]
+  },
+  {
+    "Artista": "Shakira",
+    "Pubblicazione": "8 novembre 1999",
+    "  Durata": "32:27",
+    "Dischi": 1,
+    "Tracce": 8,
+    "Genere": ["Pop", "Elettropop"],
+    "Produttore": ["Greg Kurstin", " Jesse Shatkin", "Chris Braide", "Diplo"],
+    " Formati": ["CD", "LP", "download digitale", "streaming"]
+  }
+]

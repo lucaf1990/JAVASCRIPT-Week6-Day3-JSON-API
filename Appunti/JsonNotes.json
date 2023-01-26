@@ -1,0 +1,19 @@
+{
+  "name": "Luca",
+  "surname": "Forma",
+  "age": 32,
+  "area": {
+    "region": "Lombardia",
+    "zipCode": 25018
+  },
+  "skills": [
+    {
+      "name": "JavScript",
+      "rating": 8
+    },
+    {
+      "name": "css",
+      "rating": 9
+    }
+  ]
+}

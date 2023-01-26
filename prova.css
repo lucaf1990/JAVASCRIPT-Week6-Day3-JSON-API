@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+#clock {
+  font-size: 100px;
+  background-color: aliceblue;
+  border: 1px solid black;
+  border-radius: 100px;
+  width: 350px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+button {
+  width: 150px;
+  height: 40px;
+  background-color: aliceblue;
+  border: 1px solid black;
+  border-radius: 100px;
+  width: 350px;
+  height: 50px;
+  font-size: 1.2em;
+}
